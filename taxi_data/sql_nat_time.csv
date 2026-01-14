@@ -1,0 +1,92 @@
+"NATName_p","season","cnt","prc","gen_cnt"
+"Astoria (Central)","summer",1,100,1
+"Bedford-Stuyvesant (East)","spring",1,100,1
+"Carroll Gardens-Cobble Hill-Gowanus-Red Hook","spring",1,25,4
+"Carroll Gardens-Cobble Hill-Gowanus-Red Hook","summer",2,50,4
+"Carroll Gardens-Cobble Hill-Gowanus-Red Hook","winter",1,25,4
+"Central Park","spring",5,55.56,9
+"Central Park","summer",4,44.44,9
+"Chelsea-Hudson Yards","spring",20,64.52,31
+"Chelsea-Hudson Yards","summer",3,9.68,31
+"Chelsea-Hudson Yards","winter",8,25.81,31
+"Chinatown-Two Bridges","spring",1,33.33,3
+"Chinatown-Two Bridges","winter",2,66.67,3
+"Downtown Brooklyn-DUMBO-Boerum Hill","spring",1,100,1
+"East Harlem (North)","spring",1,33.33,3
+"East Harlem (North)","summer",1,33.33,3
+"East Harlem (North)","winter",1,33.33,3
+"East Harlem (South)","summer",4,100,4
+"East Midtown-Turtle Bay","spring",13,46.43,28
+"East Midtown-Turtle Bay","summer",7,25,28
+"East Midtown-Turtle Bay","winter",8,28.57,28
+"East Village","spring",14,66.67,21
+"East Village","summer",2,9.52,21
+"East Village","winter",5,23.81,21
+"Financial District-Battery Park City","spring",8,57.14,14
+"Financial District-Battery Park City","summer",3,21.43,14
+"Financial District-Battery Park City","winter",3,21.43,14
+"Gramercy","spring",4,36.36,11
+"Gramercy","summer",2,18.18,11
+"Gramercy","winter",5,45.45,11
+"Greenpoint","winter",1,100,1
+"Greenwich Village","spring",11,61.11,18
+"Greenwich Village","winter",7,38.89,18
+"Hamilton Heights-Sugar Hill","spring",1,100,1
+"Harlem (North)","winter",1,100,1
+"Harlem (South)","spring",2,66.67,3
+"Harlem (South)","winter",1,33.33,3
+"Hell's Kitchen","spring",8,47.06,17
+"Hell's Kitchen","summer",2,11.76,17
+"Hell's Kitchen","winter",7,41.18,17
+"Jamaica","spring",1,100,1
+"John F. Kennedy International Airport","spring",3,30,10
+"John F. Kennedy International Airport","summer",4,40,10
+"John F. Kennedy International Airport","winter",3,30,10
+"LaGuardia Airport","spring",7,53.85,13
+"LaGuardia Airport","summer",2,15.38,13
+"LaGuardia Airport","winter",4,30.77,13
+"Long Island City-Hunters Point","spring",1,100,1
+"Lower East Side","spring",8,72.73,11
+"Lower East Side","summer",2,18.18,11
+"Lower East Side","winter",1,9.09,11
+"Manhattanville-West Harlem","spring",1,100,1
+"Midtown South-Flatiron-Union Square","spring",22,46.81,47
+"Midtown South-Flatiron-Union Square","summer",12,25.53,47
+"Midtown South-Flatiron-Union Square","winter",13,27.66,47
+"Midtown-Times Square","spring",51,75,68
+"Midtown-Times Square","summer",4,5.88,68
+"Midtown-Times Square","winter",13,19.12,68
+"Murray Hill-Kips Bay","spring",14,63.64,22
+"Murray Hill-Kips Bay","summer",3,13.64,22
+"Murray Hill-Kips Bay","winter",5,22.73,22
+"Park Slope","spring",1,100,1
+"Queensbridge-Ravenswood-Dutch Kills","spring",1,50,2
+"Queensbridge-Ravenswood-Dutch Kills","winter",1,50,2
+"SoHo-Little Italy-Hudson Square","spring",7,46.67,15
+"SoHo-Little Italy-Hudson Square","summer",3,20,15
+"SoHo-Little Italy-Hudson Square","winter",5,33.33,15
+"Stuyvesant Town-Peter Cooper Village","spring",1,100,1
+"Tribeca-Civic Center","spring",5,50,10
+"Tribeca-Civic Center","winter",5,50,10
+"Upper East Side-Carnegie Hill","spring",15,48.39,31
+"Upper East Side-Carnegie Hill","summer",3,9.68,31
+"Upper East Side-Carnegie Hill","winter",13,41.94,31
+"Upper East Side-Lenox Hill-Roosevelt Island","spring",8,57.14,14
+"Upper East Side-Lenox Hill-Roosevelt Island","summer",2,14.29,14
+"Upper East Side-Lenox Hill-Roosevelt Island","winter",4,28.57,14
+"Upper East Side-Yorkville","spring",10,83.33,12
+"Upper East Side-Yorkville","winter",2,16.67,12
+"Upper West Side (Central)","spring",12,50,24
+"Upper West Side (Central)","winter",12,50,24
+"Upper West Side-Lincoln Square","spring",9,47.37,19
+"Upper West Side-Lincoln Square","summer",1,5.26,19
+"Upper West Side-Lincoln Square","winter",9,47.37,19
+"Upper West Side-Manhattan Valley","spring",4,66.67,6
+"Upper West Side-Manhattan Valley","winter",2,33.33,6
+"Washington Heights (North)","spring",1,100,1
+"West Village","spring",2,14.29,14
+"West Village","summer",1,7.14,14
+"West Village","winter",11,78.57,14
+"Williamsburg","spring",2,50,4
+"Williamsburg","summer",1,25,4
+"Williamsburg","winter",1,25,4
